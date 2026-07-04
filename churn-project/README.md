@@ -1,5 +1,5 @@
 # 📊 Customer Churn Root-Cause Analysis
-
+ 
 > **An end-to-end Data Analytics project that identifies why customers leave a telecom company and predicts which customers are most likely to churn using SQL, Python, Machine Learning, and Data Visualization.**
 
 ---
